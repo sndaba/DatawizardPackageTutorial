@@ -1,4 +1,4 @@
-# Datawizard Tutorial
+
 The dependency free package of dplyr that is lighteight and has a different way of naming its functions with `data_` before the fucntion name.
 The full article can be found on medium. 
 
