@@ -153,9 +153,9 @@ View(data_filter(house_price, room_type == "Private room" & house_price > 120000
 ```
 ![image](https://github.com/sndaba/DatawizardTutorial/assets/53818579/e21dddf9-01fa-4702-8d54-073ef080b030)
 
-data frame subset with room_type set to “Private room” and house_price > 120000. Photo by Author.
+data frame subset with room_type set to “Private room” and house_price > 120000. 
 
-#In Summary
+# In Summary
 The Datawizard package is an all purpose Data Science package where you can get operations for data formation, statistical summaries and data cleaning.
 
 Further reading on Datawizard and coding at [Datawizard repository]https://github.com/easystats/datawizard.
