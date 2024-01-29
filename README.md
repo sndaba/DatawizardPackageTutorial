@@ -158,6 +158,6 @@ data frame subset with room_type set to “Private room” and house_price > 120
 # In Summary
 The Datawizard package is an all purpose Data Science package where you can get operations for data formation, statistical summaries and data cleaning.
 
-Further reading on Datawizard and coding at [Datawizard repository]https://github.com/easystats/datawizard.
+Further reading on Datawizard and coding at [Datawizard repository](https://github.com/easystats/datawizard).
 
 
